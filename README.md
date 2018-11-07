@@ -4,3 +4,4 @@
 * Chance Payne
 * Erin Meredith
 * Leeroy Jenkins
+* Charles Godoy
